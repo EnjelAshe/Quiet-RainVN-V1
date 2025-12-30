@@ -18,8 +18,10 @@
 - Audio selection and integration
 
 ## Contributing Artists
-**min_chi__e** - Background Art
-**Audio assets from:** 
+**Background Art**
+- min_chi__e
+
+**Audio**
 - freesound.org
 - DOVA-SYNDROME
 
@@ -30,6 +32,7 @@
 ---
 
 ### Development Timeline
-**11/30/2025 - 12/7/2025:** Planning, story outline, asset creation
-**12/11/2-25 - 12/14/2015** Testing assets, Learning the syntax, Chapter 1-3 implementation
-**12/14/2-25 - 12/19/2025** Chapter 4-5, endings, testing, editing/polish, deployment
+- **11/30/2025 - 12/7/2025:** Planning, story outline, asset creation
+- **12/11/2-25 - 12/14/2015** Testing assets, Learning the syntax, Chapter 1-3 implementation
+- **12/14/2-25 - 12/19/2025** Chapter 4-5, endings, testing, editing/polish, deployment
+
