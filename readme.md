@@ -79,8 +79,7 @@ A story about grief, quiet presence, and learning that sometimes the bravest thi
 
 ### **Core Technologies**
 - **Game Engine:** Ren'JS 2.0 (Phaser.js Based)
-- **Scripting:** YAML 1.2 + JavaScript
-- **Styling:** CSS3
+- **Scripting & Styling:** YAML 1.2 + JavaScript
 - **Graphics:** WebGL via Phaser.js
 
 ### **Assets & Media**
@@ -107,4 +106,5 @@ This game was packaged for desktop using the **Ren'JS Desktop Packager**, which 
 - **Graphics:** WebGL via OpenGL ES 2.0
 - **Audio:** FFmpeg for MP3/WAV playback
 - **Packaging Tool:** Electron Forge
+
 
