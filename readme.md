@@ -72,10 +72,10 @@ A story about grief, quiet presence, and learning that sometimes the bravest thi
 
 ## Development Timeline
 - **November 24-31, 2025:** Planning, story outline, asset creation
-- **December 1-22, 2025:** Testing assets, learning syntax
-- **December 23-24, 2025:** Chapter 1-2 implementation
+- **December 1-24, 2025:** Testing assets, learning syntax
+- **December 24-25, 2025:** Chapter 1-2 implementation
 - **December 25-26, 2025:** Chapter 3 implementation
-- **December 27-29, 2025:** Chapter 4-5, endings, testing, editing/polish, deployment
+- **December 26-29, 2025:** Chapter 4-5, endings, testing, editing/polish, deployment
 
 ### **Core Technologies**
 - **Game Engine:** Ren'JS 2.0 (Phaser.js Based)
@@ -106,5 +106,6 @@ This game was packaged for desktop using the **Ren'JS Desktop Packager**, which 
 - **Graphics:** WebGL via OpenGL ES 2.0
 - **Audio:** FFmpeg for MP3/WAV playback
 - **Packaging Tool:** Electron Forge
+
 
 
