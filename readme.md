@@ -36,7 +36,6 @@ A story about grief, quiet presence, and learning that sometimes the bravest thi
 **Role:** Project Assistant & Supporter  
 **Contributions:**
 - Project brainstorming and concept feedback
-- Gameplay testing and quality assurance
 - Development support and encouragement
 - Minor assistance with project coordination
 
@@ -106,6 +105,7 @@ This game was packaged for desktop using the **Ren'JS Desktop Packager**, which 
 - **Graphics:** WebGL via OpenGL ES 2.0
 - **Audio:** FFmpeg for MP3/WAV playback
 - **Packaging Tool:** Electron Forge
+
 
 
 
